@@ -1,6 +1,6 @@
 create a .env inside the backend folder
 
----
+----
 
 CREDENTIALS=
 
@@ -10,7 +10,7 @@ PORT=
 
 GOOGLE_APPLICATION_CREDENTIALS=
 
----
+----
 
 for run the program 
 
